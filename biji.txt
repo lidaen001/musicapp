@@ -1,0 +1,6 @@
+3
+1.webpack config alias设置别名 resolve
+2.fastclick 300ms延迟 
+3 import 然后注册 <>
+4router  index.js  import router  =>Vue.use(router)=>  export default new Router =>设置路径
+5router link  router-view
